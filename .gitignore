@@ -1,0 +1,17 @@
+# Build artifacts
+*.pyc
+__pycache__/
+build/
+dist/
+*.spec
+
+# Executables (use GitHub Releases instead)
+*.exe
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
